@@ -1,0 +1,64 @@
+{
+    "categories": [
+                   {
+                   "key": "AtHome",
+                   "title": "At Home",
+                   "subcategories": [
+                        {
+                            "key": "ChangingDiapers",
+                            "title": "Changing Diapers"
+                        },
+                        {
+                            "key": "GettingDressed",
+                            "title": "Getting Dressed"
+                        }
+                   ]
+                   },
+                   {
+                   "key": "OutAndAbout",
+                   "title": "Out and About",
+                   "subcategories": [
+                       {
+                            "key": "AtTheStore",
+                            "title": "At the Store"
+                       },
+                       {
+                            "key": "AtThePark",
+                            "title": "At the Park"
+                       },
+                       {
+                            "key": "AtAnAppointment",
+                            "title": "At an Appointment"
+                       }
+                   ]
+                   },
+                   {
+                   "key": "OnTheGo",
+                   "title": "On the Go",
+                   "subcategories": [
+                       {
+                            "key": "OnADrive",
+                            "title": "On a Drive"
+                       },
+                       {
+                            "key": "OnAWalk",
+                            "title": "On a Walk"
+                       }
+                   ]
+                   },
+                   {
+                   "key": "Other",
+                   "title": "Other",
+                   "subcategories": [
+                       {
+                          "key": "key1",
+                          "title": ""
+                       },
+                       {
+                          "key": "key2",
+                          "title": ""
+                       }
+                   ]
+                   }
+                   ]
+}
