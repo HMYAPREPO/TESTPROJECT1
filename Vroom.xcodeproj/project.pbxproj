@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		FA09E8EC1EC56BB3003AF8CE /* AtHome.plist in Resources */ = {isa = PBXBuildFile; fileRef = FA09E8EB1EC56BB3003AF8CE /* AtHome.plist */; };
 		FA09E8EE1EC56F15003AF8CE /* Category.json in Resources */ = {isa = PBXBuildFile; fileRef = FA09E8ED1EC56F15003AF8CE /* Category.json */; };
-		FA09E8F01EC6191D003AF8CE /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = FA09E8EF1EC6191D003AF8CE /* .gitignore */; };
 		FA1FF3C61EC3ACB20040D5DA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1FF3C51EC3ACB20040D5DA /* AppDelegate.swift */; };
 		FA1FF3C81EC3ACB20040D5DA /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1FF3C71EC3ACB20040D5DA /* FirstViewController.swift */; };
 		FA1FF3CA1EC3ACB20040D5DA /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1FF3C91EC3ACB20040D5DA /* SecondViewController.swift */; };
@@ -21,7 +20,6 @@
 /* Begin PBXFileReference section */
 		FA09E8EB1EC56BB3003AF8CE /* AtHome.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = AtHome.plist; sourceTree = "<group>"; };
 		FA09E8ED1EC56F15003AF8CE /* Category.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Category.json; sourceTree = "<group>"; };
-		FA09E8EF1EC6191D003AF8CE /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		FA1FF3C21EC3ACB20040D5DA /* Vroom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vroom.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA1FF3C51EC3ACB20040D5DA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FA1FF3C71EC3ACB20040D5DA /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -71,7 +69,6 @@
 				FA1FF3D01EC3ACB20040D5DA /* LaunchScreen.storyboard */,
 				FA1FF3D31EC3ACB20040D5DA /* Info.plist */,
 				FA09E8EB1EC56BB3003AF8CE /* AtHome.plist */,
-				FA09E8EF1EC6191D003AF8CE /* .gitignore */,
 			);
 			path = Vroom;
 			sourceTree = "<group>";
@@ -140,7 +137,6 @@
 				FA09E8EC1EC56BB3003AF8CE /* AtHome.plist in Resources */,
 				FA1FF3D21EC3ACB20040D5DA /* LaunchScreen.storyboard in Resources */,
 				FA1FF3CF1EC3ACB20040D5DA /* Assets.xcassets in Resources */,
-				FA09E8F01EC6191D003AF8CE /* .gitignore in Resources */,
 				FA1FF3CD1EC3ACB20040D5DA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
