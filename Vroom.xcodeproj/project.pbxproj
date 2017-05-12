@@ -41,6 +41,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FA09E8F81EC62670003AF8CE /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				FA09E8F91EC62670003AF8CE /* images */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
+		FA09E8F91EC62670003AF8CE /* images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
 		FA1FF3B91EC3ACB20040D5DA = {
 			isa = PBXGroup;
 			children = (
@@ -60,6 +75,7 @@
 		FA1FF3C41EC3ACB20040D5DA /* Vroom */ = {
 			isa = PBXGroup;
 			children = (
+				FA09E8F81EC62670003AF8CE /* assets */,
 				FA09E8ED1EC56F15003AF8CE /* Category.json */,
 				FA1FF3C51EC3ACB20040D5DA /* AppDelegate.swift */,
 				FA1FF3C71EC3ACB20040D5DA /* FirstViewController.swift */,
